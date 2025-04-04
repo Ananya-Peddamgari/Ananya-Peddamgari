@@ -68,17 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourgithub&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📬 Let's Connect  
 

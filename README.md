@@ -1,4 +1,4 @@
-<h1 align="center">Ananya Peddamgari</h1>
+o<h1 align="center">Hello I'am Ananya Peddamgari</h1>
 <h3 align="center">Turning data, code, and ideas into impactful solutions.</h3>
 
 ## 🚀 Projects

@@ -14,7 +14,6 @@
 | **Project**                             | **Description**                                    | **Tech Stack**                                      |
 |------------------------------------------|---------------------------------------------------|------------------------------------------------------|
 | **SVKM School Dashboard**               | Data visualization for school performance        | `Power BI` `Excel`                                   |
-| **E-voting System**                     | Secure electronic voting platform                | `Python` `SQL` `Tkinter`                            |
 | **NM-Laundry Web Application**          | Full-stack laundry service management            | `HTML` `CSS` `JavaScript` `PHP` `MySQL`             |
 | **Breast Cancer Classification**        | ML model for cancer detection                    | `Python` `TensorFlow` `Pandas` `Scikit-learn`       |
 | **Boutique Database Management System** | Retail inventory & sales tracking solution       | `MySQL` `PHP` `HTML/CSS`                            |
@@ -85,8 +84,4 @@
 
 ---
 
-## 🔥 Fun Fact  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
-</p>

@@ -55,6 +55,7 @@
     </td>
     <td valign="top">
       ✅ Google Cloud Computing Foundations (4 Modules) <br>
+      ✅ AWS Academy Graduate-AWS ACADEMY CLOUD FOUNDATION
       ✅ Python Essentials Certification (Cisco) <br>
       ✅ Network Deployment & Development (Internet Society)  
     </td>

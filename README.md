@@ -11,14 +11,16 @@
 
 ## 🚀 Featured Projects  
 
+
 | **Project**                             | **Description**                                    | **Tech Stack**                                      |
 |------------------------------------------|---------------------------------------------------|------------------------------------------------------|
 | **SVKM School Dashboard**               | Data visualization for tracking syllabus completion| `Power BI` `Excel`                                   |
 | **NM-Laundry Web Application**          | Full-stack laundry service management            | `HTML` `CSS` `JavaScript` `PHP` `MySQL`             |
 | **Breast Cancer Classification**        | ML model for cancer detection                    | `Python` `TensorFlow` `Pandas` `Scikit-learn`       |
-| **Boutique Database Management System** | Retail inventory & sales tracking solution       | `MySQL` `PHP` `HTML/CSS`                            |
+| [**Boutique Database Management System**](https://lathatailor.web.app/) | Retail inventory & sales tracking solution *(Live Now!)* | `MySQL` `PHP` `HTML/CSS` |
 | **Campus Cravings**                     | Food ordering app for campus dining              | `Android` `Java` `XML` `SQLite`                     |
 | **Priority Preemptive Scheduling**      | OS process scheduling simulation                 | `C++` `Data Structures`                             |
+
 
 ---
 
